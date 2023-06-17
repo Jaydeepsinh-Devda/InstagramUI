@@ -1,4 +1,4 @@
-# instagram_ui
+# Instagram_UI
 
 A new Flutter project.
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+# UI Design of Instagram
+
+![image](https://github.com/Jaydeepsinh-Devda/InstagramUI/assets/88308058/3064d063-b05e-420f-9ed1-83a822cf69fd)
